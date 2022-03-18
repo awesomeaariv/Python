@@ -1,2 +1,1 @@
-First Python project developed
-Took about 2.5 hours
+All of my Python projects.
